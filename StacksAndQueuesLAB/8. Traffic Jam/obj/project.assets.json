@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\8. Traffic Jam\\8. Traffic Jam.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\8. Traffic Jam\\8. Traffic Jam.csproj",
       "projectName": "8. Traffic Jam",
-      "projectPath": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\8. Traffic Jam\\8. Traffic Jam.csproj",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\8. Traffic Jam\\8. Traffic Jam.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\8. Traffic Jam\\obj\\",
+      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\8. Traffic Jam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

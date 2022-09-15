@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\2. Stack Sum\\2. Stack Sum.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\2. Stack Sum\\2. Stack Sum.csproj",
       "projectName": "2. Stack Sum",
-      "projectPath": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\2. Stack Sum\\2. Stack Sum.csproj",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\2. Stack Sum\\2. Stack Sum.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\2. Stack Sum\\obj\\",
+      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\2. Stack Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

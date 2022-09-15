@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\1. Reverse a String\\1. Reverse a String.csproj": {}
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\1. Reverse a String\\1. Reverse a String.csproj": {}
   },
   "projects": {
-    "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\1. Reverse a String\\1. Reverse a String.csproj": {
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\1. Reverse a String\\1. Reverse a String.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\1. Reverse a String\\1. Reverse a String.csproj",
+        "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\1. Reverse a String\\1. Reverse a String.csproj",
         "projectName": "1. Reverse a String",
-        "projectPath": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\1. Reverse a String\\1. Reverse a String.csproj",
+        "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\1. Reverse a String\\1. Reverse a String.csproj",
         "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\1. Reverse a String\\obj\\",
+        "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\1. Reverse a String\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

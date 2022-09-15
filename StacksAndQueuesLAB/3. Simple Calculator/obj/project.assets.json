@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\3. Simple Calculator\\3. Simple Calculator.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\3. Simple Calculator\\3. Simple Calculator.csproj",
       "projectName": "3. Simple Calculator",
-      "projectPath": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\3. Simple Calculator\\3. Simple Calculator.csproj",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\3. Simple Calculator\\3. Simple Calculator.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\3. Simple Calculator\\obj\\",
+      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\3. Simple Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

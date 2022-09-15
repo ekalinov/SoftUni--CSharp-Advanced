@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\7. Hot Potato\\7. Hot Potato.csproj": {}
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\7. Hot Potato\\7. Hot Potato.csproj": {}
   },
   "projects": {
-    "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\7. Hot Potato\\7. Hot Potato.csproj": {
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\7. Hot Potato\\7. Hot Potato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\7. Hot Potato\\7. Hot Potato.csproj",
+        "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\7. Hot Potato\\7. Hot Potato.csproj",
         "projectName": "7. Hot Potato",
-        "projectPath": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\7. Hot Potato\\7. Hot Potato.csproj",
+        "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\7. Hot Potato\\7. Hot Potato.csproj",
         "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\7. Hot Potato\\obj\\",
+        "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\7. Hot Potato\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

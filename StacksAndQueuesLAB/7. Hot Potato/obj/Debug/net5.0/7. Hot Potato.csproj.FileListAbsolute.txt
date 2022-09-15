@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.exe
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.deps.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.pdb
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\obj\Debug\net5.0\refint\7. Hot Potato.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.pdb
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesLAB\7. Hot Potato\obj\Debug\net5.0\ref\7. Hot Potato.dll

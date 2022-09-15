@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\4. Matching Brackets\\4. Matching Brackets.csproj": {}
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\4. Matching Brackets\\4. Matching Brackets.csproj": {}
   },
   "projects": {
-    "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\4. Matching Brackets\\4. Matching Brackets.csproj": {
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\4. Matching Brackets\\4. Matching Brackets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\4. Matching Brackets\\4. Matching Brackets.csproj",
+        "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\4. Matching Brackets\\4. Matching Brackets.csproj",
         "projectName": "4. Matching Brackets",
-        "projectPath": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\4. Matching Brackets\\4. Matching Brackets.csproj",
+        "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\4. Matching Brackets\\4. Matching Brackets.csproj",
         "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Emo\\SU_repos\\repos\\CSharp Advanced\\StacksAndQueuesLAB\\4. Matching Brackets\\obj\\",
+        "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\StacksAndQueuesLAB\\4. Matching Brackets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
