@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.exe
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.deps.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.pdb
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\obj\Debug\net5.0\refint\03. Maximum and Minimum Element.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.pdb
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\03. Maximum and Minimum Element\obj\Debug\net5.0\ref\03. Maximum and Minimum Element.dll

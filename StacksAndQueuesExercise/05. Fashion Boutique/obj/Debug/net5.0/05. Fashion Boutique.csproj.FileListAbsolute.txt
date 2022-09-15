@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.exe
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.deps.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.pdb
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\obj\Debug\net5.0\refint\05. Fashion Boutique.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.pdb
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\05. Fashion Boutique\obj\Debug\net5.0\ref\05. Fashion Boutique.dll
