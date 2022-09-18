@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.exe
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.deps.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.pdb
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\obj\Debug\net5.0\refint\09. Simple Text Editor.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.pdb
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\09. Simple Text Editor\obj\Debug\net5.0\ref\09. Simple Text Editor.dll

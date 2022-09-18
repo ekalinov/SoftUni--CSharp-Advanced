@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.exe
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.deps.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.pdb
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\obj\Debug\net5.0\refint\11. Key Revolver.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.pdb
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\11. Key Revolver\obj\Debug\net5.0\ref\11. Key Revolver.dll

@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\bin\Debug\net5.0\07. Truck Tour.exe
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\bin\Debug\net5.0\07. Truck Tour.deps.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\bin\Debug\net5.0\07. Truck Tour.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\bin\Debug\net5.0\07. Truck Tour.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\bin\Debug\net5.0\07. Truck Tour.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\bin\Debug\net5.0\07. Truck Tour.pdb
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\obj\Debug\net5.0\07. Truck Tour.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\obj\Debug\net5.0\07. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\obj\Debug\net5.0\07. Truck Tour.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\obj\Debug\net5.0\07. Truck Tour.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\obj\Debug\net5.0\07. Truck Tour.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\obj\Debug\net5.0\07. Truck Tour.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\obj\Debug\net5.0\refint\07. Truck Tour.dll
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\obj\Debug\net5.0\07. Truck Tour.pdb
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\obj\Debug\net5.0\07. Truck Tour.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\StacksAndQueuesExercise\StacksAndQueuesExercise\07. Truck Tour\obj\Debug\net5.0\ref\07. Truck Tour.dll
