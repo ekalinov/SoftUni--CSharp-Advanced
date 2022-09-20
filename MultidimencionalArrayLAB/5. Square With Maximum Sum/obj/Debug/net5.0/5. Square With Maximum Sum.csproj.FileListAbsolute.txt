@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\bin\Debug\net5.0\5. Square With Maximum Sum.exe
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\bin\Debug\net5.0\5. Square With Maximum Sum.deps.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\bin\Debug\net5.0\5. Square With Maximum Sum.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\bin\Debug\net5.0\5. Square With Maximum Sum.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\bin\Debug\net5.0\5. Square With Maximum Sum.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\bin\Debug\net5.0\5. Square With Maximum Sum.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\obj\Debug\net5.0\refint\5. Square With Maximum Sum.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\obj\Debug\net5.0\5. Square With Maximum Sum.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArrayLAB\5. Square With Maximum Sum\obj\Debug\net5.0\ref\5. Square With Maximum Sum.dll

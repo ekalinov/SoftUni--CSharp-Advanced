@@ -49,6 +49,7 @@ namespace _07._Truck_Tour
 
             for (int i = 0; i < stations.Count; i++)
             {
+                if (i != 0) stations.Enqueue(stations.Dequeue());
 
                 for (int j = 0; j < stations.Count; j++)
                 {
@@ -60,9 +61,9 @@ namespace _07._Truck_Tour
                     if (litersInTruck < 0)
                     {
                         isCircleCompleted = false;
-                        litersInTruck = 0;
-                        stations.Enqueue(currStation);
-                        break;
+
+                        //stations.Enqueue(currStation);
+                        //break;
 
                     }
 
@@ -76,7 +77,7 @@ namespace _07._Truck_Tour
                     break;
 
                 }
-
+                litersInTruck = 0; // Moved here
                 isCircleCompleted = true;
             }
 
@@ -85,4 +86,3 @@ namespace _07._Truck_Tour
 
     }
 }
-
