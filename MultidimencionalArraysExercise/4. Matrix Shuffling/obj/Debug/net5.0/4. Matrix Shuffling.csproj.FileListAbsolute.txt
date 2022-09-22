@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.exe
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.deps.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\obj\Debug\net5.0\refint\4. Matrix Shuffling.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\4. Matrix Shuffling\obj\Debug\net5.0\ref\4. Matrix Shuffling.dll

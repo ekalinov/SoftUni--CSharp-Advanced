@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.exe
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.deps.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\obj\Debug\net5.0\refint\2. Squares in Matrix.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\2. Squares in Matrix\obj\Debug\net5.0\ref\2. Squares in Matrix.dll

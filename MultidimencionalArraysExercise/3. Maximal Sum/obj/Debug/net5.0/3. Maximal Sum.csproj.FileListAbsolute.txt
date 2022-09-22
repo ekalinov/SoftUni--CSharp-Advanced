@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.exe
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.deps.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\obj\Debug\net5.0\refint\3. Maximal Sum.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\3. Maximal Sum\obj\Debug\net5.0\ref\3. Maximal Sum.dll

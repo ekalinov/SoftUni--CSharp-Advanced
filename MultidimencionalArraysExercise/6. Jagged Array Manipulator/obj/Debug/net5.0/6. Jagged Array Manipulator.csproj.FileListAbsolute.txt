@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.exe
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.deps.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\obj\Debug\net5.0\refint\6. Jagged Array Manipulator.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\6. Jagged Array Manipulator\obj\Debug\net5.0\ref\6. Jagged Array Manipulator.dll
