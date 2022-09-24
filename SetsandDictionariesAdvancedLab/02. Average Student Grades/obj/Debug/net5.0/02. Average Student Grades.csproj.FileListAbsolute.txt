@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.exe
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.deps.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.pdb
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\obj\Debug\net5.0\refint\02. Average Student Grades.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.pdb
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\02. Average Student Grades\obj\Debug\net5.0\ref\02. Average Student Grades.dll

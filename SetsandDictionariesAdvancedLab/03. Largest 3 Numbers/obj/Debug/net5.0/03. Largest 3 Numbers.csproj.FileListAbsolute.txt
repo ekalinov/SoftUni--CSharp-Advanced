@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.exe
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.deps.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.pdb
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\obj\Debug\net5.0\refint\03. Largest 3 Numbers.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.pdb
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\03. Largest 3 Numbers\obj\Debug\net5.0\ref\03. Largest 3 Numbers.dll

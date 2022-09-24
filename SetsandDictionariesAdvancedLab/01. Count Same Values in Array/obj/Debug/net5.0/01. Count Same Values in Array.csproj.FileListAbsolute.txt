@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\bin\Debug\net5.0\01. Count Same Values in Array.exe
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\bin\Debug\net5.0\01. Count Same Values in Array.deps.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\bin\Debug\net5.0\01. Count Same Values in Array.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\bin\Debug\net5.0\01. Count Same Values in Array.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\bin\Debug\net5.0\01. Count Same Values in Array.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\bin\Debug\net5.0\01. Count Same Values in Array.pdb
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\obj\Debug\net5.0\refint\01. Count Same Values in Array.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.pdb
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\obj\Debug\net5.0\01. Count Same Values in Array.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedLab\01. Count Same Values in Array\obj\Debug\net5.0\ref\01. Count Same Values in Array.dll

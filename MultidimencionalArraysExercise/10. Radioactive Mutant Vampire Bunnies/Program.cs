@@ -12,7 +12,7 @@ namespace _10._Radioactive_Mutant_Vampire_Bunnies
             int[] mtrxSize = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
 
             char[,] mtrx = new char[mtrxSize[0], mtrxSize[1]];
-            
+
             for (int row = 0; row < mtrx.GetLength(0); row++)
             {
                 string rawInput = Console.ReadLine();
@@ -61,20 +61,42 @@ namespace _10._Radioactive_Mutant_Vampire_Bunnies
 
                 char currMove = moves.Dequeue();
 
+                Stack<int[]> lastPosition = new Stack<int[]>();
+
+                int[] lastPos   = new int[2] { currPositionRow, currPositionCol };
+                lastPosition.Push(lastPos);
+               
+
                 int[] newPosition = MoveMethod(currMove, currPositionRow, currPositionCol, mtrx);
 
                 currPositionRow = newPosition[0];
                 currPositionCol = newPosition[1];
+                if (IsCellValid(currPositionRow, currPositionCol, mtrxSize[0], mtrxSize[1]))
+                {
+                mtrx[currPositionRow, currPositionCol] = 'P';
+                }
+
+                int[] lastMove = lastPosition.Peek();
+                int lastRow = lastMove[0];
+                int lastCol = lastMove[1];
+
+                mtrx[lastRow, lastCol] = '.';
+
+                mtrx = BunnysSpreadMethod(mtrx);
 
                 if (!IsCellValid(currPositionRow, currPositionCol, mtrxSize[0], mtrxSize[1]))
                 {
                     Print(mtrx);
-                    Console.WriteLine($"won: {currPositionRow} {currPositionCol}");
+
+                     lastMove = lastPosition.Peek();
+                     lastRow=lastMove[0];
+                    lastCol=lastMove[1];
+
+                    Console.WriteLine($"won: {lastRow} {lastCol}");
                     break;
                 }
-                    mtrx = BunnysSpreadMethod(mtrx);
 
-                if (mtrx[currPositionRow, currPositionCol] != 'B')
+                if (mtrx[currPositionRow, currPositionCol] == 'B')
                 {
                     Print(mtrx);
                     Console.WriteLine($"dead: {currPositionRow} {currPositionCol}");
@@ -94,7 +116,6 @@ namespace _10._Radioactive_Mutant_Vampire_Bunnies
 
             int currPositionR = startR;
             int currPositionC = startC;
-
 
             //  up
             if (currMove == 'U')
@@ -137,70 +158,39 @@ namespace _10._Radioactive_Mutant_Vampire_Bunnies
                 for (int col = 0; col < mtrx.GetLength(1); col++)
                 {
 
-                    //Top left
-                    if (IsCellValid(row - 1, col - 1, rows, cols))
+                    if (mtrx[row, col] == 'B')
                     {
-                        if (mtrx[row - 1, col - 1] != 'B')
+                        //Top center
+                        if (IsCellValid(row - 1, col, rows, cols))
                         {
-                            mtrxCurr[row - 1, col - 1] = 'B';
+                            if (mtrx[row - 1, col] != 'B')
+                            {
+                                mtrxCurr[row - 1, col] = 'B';
+                            }
                         }
-                    }
-                    //Top center
-                    if (IsCellValid(row - 1, col, rows, cols))
-                    {
-                        if (mtrx[row - 1, col] != 'B')
+                        //Middle left
+                        if (IsCellValid(row, col - 1, rows, cols))
                         {
-                            mtrxCurr[row - 1, col] = 'B';
+                            if (mtrx[row, col - 1] != 'B')
+                            {
+                                mtrxCurr[row, col - 1] = 'B';
+                            }
                         }
-                    }
-                    //Top Right
-                    if (IsCellValid(row - 1, col + 1, rows, cols))
-                    {
-                        if (mtrx[row - 1, col + 1] != 'B')
+                        //Middle Right
+                        if (IsCellValid(row, col + 1, rows, cols))
                         {
-                            mtrxCurr[row - 1, col + 1] = 'B';
+                            if (mtrx[row, col + 1] != 'B')
+                            {
+                                mtrxCurr[row, col + 1] = 'B';
+                            }
                         }
-                    }
-
-                    //Middle left
-                    if (IsCellValid(row, col - 1, rows, cols))
-                    {
-                        if (mtrx[row, col - 1] != 'B')
+                        //Bottom center
+                        if (IsCellValid(row + 1, col, rows, cols))
                         {
-                            mtrxCurr[row, col - 1] = 'B';
-                        }
-                    }
-                    //Middle Right
-                    if (IsCellValid(row, col + 1, rows, cols))
-                    {
-                        if (mtrx[row, col + 1] != 'B')
-                        {
-                            mtrxCurr[row, col + 1] = 'B';
-                        }
-                    }
-
-                    //Bottom left
-                    if (IsCellValid(row + 1, col - 1, rows, cols))
-                    {
-                        if (mtrx[row + 1, col - 1] != 'B')
-                        {
-                            mtrxCurr[row + 1, col - 1] = 'B';
-                        }
-                    }
-                    //Bottom center
-                    if (IsCellValid(row + 1, col, rows, cols))
-                    {
-                        if (mtrx[row + 1, col] != 'B')
-                        {
-                            mtrxCurr[row + 1, col] = 'B';
-                        }
-                    }
-                    //Bottom Right
-                    if (IsCellValid(row + 1, col + 1, rows, cols))
-                    {
-                        if (mtrx[row + 1, col + 1] != 'B')
-                        {
-                            mtrxCurr[row + 1, col + 1] = 'B';
+                            if (mtrx[row + 1, col] != 'B')
+                            {
+                                mtrxCurr[row + 1, col] = 'B';
+                            }
                         }
                     }
 
@@ -217,7 +207,7 @@ namespace _10._Radioactive_Mutant_Vampire_Bunnies
             {
                 for (int col = 0; col < mtrx.GetLength(1); col++)
                 {
-                    copy[row,col]=mtrx[row,col];
+                    copy[row, col] = mtrx[row, col];
 
                 }
             }
@@ -240,7 +230,7 @@ namespace _10._Radioactive_Mutant_Vampire_Bunnies
             {
                 for (int col = 0; col < mtrx.GetLength(1); col++)
                 {
-                    Console.Write(mtrx[row, col] + " ");
+                    Console.Write(mtrx[row, col]);
 
                 }
                 Console.WriteLine();
