@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.exe
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.deps.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\refint\10. Radioactive Mutant Vampire Bunnies.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\ref\10. Radioactive Mutant Vampire Bunnies.dll

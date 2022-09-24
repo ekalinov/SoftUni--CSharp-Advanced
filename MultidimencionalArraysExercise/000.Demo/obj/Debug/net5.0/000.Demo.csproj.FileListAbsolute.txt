@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\bin\Debug\net5.0\000.Demo.exe
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\bin\Debug\net5.0\000.Demo.deps.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\bin\Debug\net5.0\000.Demo.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\bin\Debug\net5.0\000.Demo.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\bin\Debug\net5.0\000.Demo.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\bin\Debug\net5.0\000.Demo.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\obj\Debug\net5.0\000.Demo.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\obj\Debug\net5.0\000.Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\obj\Debug\net5.0\000.Demo.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\obj\Debug\net5.0\000.Demo.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\obj\Debug\net5.0\000.Demo.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\obj\Debug\net5.0\000.Demo.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\obj\Debug\net5.0\refint\000.Demo.dll
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\obj\Debug\net5.0\000.Demo.pdb
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\obj\Debug\net5.0\000.Demo.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\MultidimencionalArraysExercise\000.Demo\obj\Debug\net5.0\ref\000.Demo.dll

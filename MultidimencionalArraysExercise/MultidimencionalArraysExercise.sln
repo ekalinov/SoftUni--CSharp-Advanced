@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Diagonal Difference", "1. Diagonal Difference\1. Diagonal Difference.csproj", "{AB50FB9D-75B6-431E-BA5B-12B5DABA0880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Diagonal Difference", "1. Diagonal Difference\1. Diagonal Difference.csproj", "{AB50FB9D-75B6-431E-BA5B-12B5DABA0880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Squares in Matrix", "2. Squares in Matrix\2. Squares in Matrix.csproj", "{275D2173-933A-42FB-964F-0E1A2F91BFF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Squares in Matrix", "2. Squares in Matrix\2. Squares in Matrix.csproj", "{275D2173-933A-42FB-964F-0E1A2F91BFF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Maximal Sum", "3. Maximal Sum\3. Maximal Sum.csproj", "{8A8709DD-5BA6-4756-9BF4-550083D1FA59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Maximal Sum", "3. Maximal Sum\3. Maximal Sum.csproj", "{8A8709DD-5BA6-4756-9BF4-550083D1FA59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Matrix Shuffling", "4. Matrix Shuffling\4. Matrix Shuffling.csproj", "{F41659D4-D09F-421C-AB3E-E187830CBEB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Matrix Shuffling", "4. Matrix Shuffling\4. Matrix Shuffling.csproj", "{F41659D4-D09F-421C-AB3E-E187830CBEB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Snake Moves", "5. Snake Moves\5. Snake Moves.csproj", "{04385545-6BEE-4D7E-8AD0-BE6F4E4ED9C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Snake Moves", "5. Snake Moves\5. Snake Moves.csproj", "{04385545-6BEE-4D7E-8AD0-BE6F4E4ED9C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Knight Game", "7. Knight Game\7. Knight Game.csproj", "{60D599D3-E661-4EB6-9010-21F2A4889E55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Knight Game", "7. Knight Game\7. Knight Game.csproj", "{60D599D3-E661-4EB6-9010-21F2A4889E55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Bombs", "8. Bombs\8. Bombs.csproj", "{DC1BDBDF-5F26-4299-AABC-80E61A19BA09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. Bombs", "8. Bombs\8. Bombs.csproj", "{DC1BDBDF-5F26-4299-AABC-80E61A19BA09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Miner", "9. Miner\9. Miner.csproj", "{F98555F1-CF07-482B-B48D-EDCAEA9F1D43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9. Miner", "9. Miner\9. Miner.csproj", "{F98555F1-CF07-482B-B48D-EDCAEA9F1D43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Radioactive Mutant Vampire Bunnies", "10. Radioactive Mutant Vampire Bunnies\10. Radioactive Mutant Vampire Bunnies.csproj", "{6EB470CF-36A0-4502-BC83-EEB0A5A424D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Radioactive Mutant Vampire Bunnies", "10. Radioactive Mutant Vampire Bunnies\10. Radioactive Mutant Vampire Bunnies.csproj", "{6EB470CF-36A0-4502-BC83-EEB0A5A424D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Jagged Array Manipulator", "6. Jagged Array Manipulator\6. Jagged Array Manipulator.csproj", "{A628B336-DD87-4543-9A17-FCC998B0A0C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Jagged Array Manipulator", "6. Jagged Array Manipulator\6. Jagged Array Manipulator.csproj", "{A628B336-DD87-4543-9A17-FCC998B0A0C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000.Demo", "000.Demo\000.Demo.csproj", "{4821ADD3-303B-487F-97C0-16600BBDCF4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{A628B336-DD87-4543-9A17-FCC998B0A0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A628B336-DD87-4543-9A17-FCC998B0A0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A628B336-DD87-4543-9A17-FCC998B0A0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4821ADD3-303B-487F-97C0-16600BBDCF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4821ADD3-303B-487F-97C0-16600BBDCF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4821ADD3-303B-487F-97C0-16600BBDCF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4821ADD3-303B-487F-97C0-16600BBDCF4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
