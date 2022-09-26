@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.exe
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.deps.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.pdb
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\obj\Debug\net5.0\refint\03. Periodic Table.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.pdb
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\03. Periodic Table\obj\Debug\net5.0\ref\03. Periodic Table.dll
