@@ -60,11 +60,6 @@ namespace _06._Wardrobe
                 }
 
             }
-
-
-
-
-
         }
     }
 }

@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.exe
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.deps.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.pdb
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\obj\Debug\net5.0\refint\07. The V-Logger.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.pdb
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\07. The V-Logger\obj\Debug\net5.0\ref\07. The V-Logger.dll
