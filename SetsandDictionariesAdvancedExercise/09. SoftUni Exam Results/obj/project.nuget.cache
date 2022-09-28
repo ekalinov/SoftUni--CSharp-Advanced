@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "drSacF7YoP4bZRvBJ4/qCEd+m8vl2n4uyVcJERQQx13bM13yorTT4zvqYUrzPLEC7QIKA6KaxwrdupJv+YcFOA==",
+  "dgSpecHash": "qdeL8J447KDh1GL0yIsp70o0V64ipjQwspM3be8KDD/dFWgkUICLm+2J2VMOIlCaOUKqUMfpUpHmkCzBf3qNcA==",
   "success": true,
   "projectFilePath": "D:\\Emo\\SU_repos\\CSharp Advanced\\SetsandDictionariesAdvancedExercise\\09. SoftUni Exam Results\\09. SoftUni Exam Results.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

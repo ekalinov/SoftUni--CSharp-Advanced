@@ -1,0 +1,16 @@
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.exe
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.deps.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.pdb
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\obj\Debug\net5.0\refint\09. SoftUni Exam Results.dll
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.pdb
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.genruntimeconfig.cache
+D:\Emo\SU_repos\CSharp Advanced\SetsandDictionariesAdvancedExercise\09. SoftUni Exam Results\obj\Debug\net5.0\ref\09. SoftUni Exam Results.dll
