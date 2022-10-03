@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.exe
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.deps.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.dll
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.pdb
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.dll
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.pdb
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.genruntimeconfig.cache

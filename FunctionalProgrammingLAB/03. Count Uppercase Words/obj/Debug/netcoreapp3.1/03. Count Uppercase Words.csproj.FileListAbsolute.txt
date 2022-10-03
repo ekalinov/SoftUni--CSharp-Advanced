@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.exe
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.deps.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.dll
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.pdb
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.dll
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.pdb
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingLAB\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.genruntimeconfig.cache

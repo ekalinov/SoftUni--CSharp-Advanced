@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache

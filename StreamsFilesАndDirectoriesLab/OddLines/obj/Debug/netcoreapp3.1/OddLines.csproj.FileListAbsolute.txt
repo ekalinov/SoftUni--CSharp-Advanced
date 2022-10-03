@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\bin\Debug\netcoreapp3.1\OddLines.exe
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\bin\Debug\netcoreapp3.1\OddLines.deps.json
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\bin\Debug\netcoreapp3.1\OddLines.dll
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\bin\Debug\netcoreapp3.1\OddLines.pdb
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\obj\Debug\netcoreapp3.1\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\obj\Debug\netcoreapp3.1\OddLines.dll
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\obj\Debug\netcoreapp3.1\OddLines.pdb
+D:\Emo\SU_repos\CSharp Advanced\StreamsFilesАndDirectoriesLab\OddLines\obj\Debug\netcoreapp3.1\OddLines.genruntimeconfig.cache
