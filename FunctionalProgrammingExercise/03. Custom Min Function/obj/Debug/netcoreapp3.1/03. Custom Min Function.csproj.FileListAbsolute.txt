@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.exe
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.deps.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.dll
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.pdb
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.dll
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.pdb
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.genruntimeconfig.cache

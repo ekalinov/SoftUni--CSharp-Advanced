@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.exe
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.deps.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.dll
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.pdb
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.dll
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.pdb
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.genruntimeconfig.cache

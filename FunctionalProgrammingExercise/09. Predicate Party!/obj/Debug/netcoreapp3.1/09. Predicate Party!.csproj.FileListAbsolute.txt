@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.exe
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.deps.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.dll
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.pdb
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.dll
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.pdb
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.genruntimeconfig.cache

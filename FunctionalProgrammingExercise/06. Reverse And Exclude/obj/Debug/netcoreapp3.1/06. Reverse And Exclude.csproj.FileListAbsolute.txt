@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.exe
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.deps.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.dll
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.pdb
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.dll
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.pdb
+D:\Emo\SU_repos\CSharp Advanced\FunctionalProgrammingExercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.genruntimeconfig.cache
