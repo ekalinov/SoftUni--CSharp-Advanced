@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\bin\Debug\netcoreapp3.1\04. Car Engine And Tires.exe
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\bin\Debug\netcoreapp3.1\04. Car Engine And Tires.deps.json
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\bin\Debug\netcoreapp3.1\04. Car Engine And Tires.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\bin\Debug\netcoreapp3.1\04. Car Engine And Tires.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\bin\Debug\netcoreapp3.1\04. Car Engine And Tires.dll
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\bin\Debug\netcoreapp3.1\04. Car Engine And Tires.pdb
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.dll
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.pdb
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesLab\04. Car Engine And Tires\obj\Debug\netcoreapp3.1\04. Car Engine And Tires.genruntimeconfig.cache

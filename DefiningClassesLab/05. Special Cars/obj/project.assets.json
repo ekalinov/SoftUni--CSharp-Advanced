@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\DefiningClassesLab\\05. Special Cars\\05. Special Cars.csproj",
-      "projectName": "05. Special Cars",
-      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\DefiningClassesLab\\05. Special Cars\\05. Special Cars.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\DefiningClassesLab\\05. Special Cars\\05.SpecialCars.csproj",
+      "projectName": "05.SpecialCars",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\DefiningClassesLab\\05. Special Cars\\05.SpecialCars.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
       "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\DefiningClassesLab\\05. Special Cars\\obj\\",
       "projectStyle": "PackageReference",
