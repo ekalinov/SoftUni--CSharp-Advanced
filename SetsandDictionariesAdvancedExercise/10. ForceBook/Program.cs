@@ -27,6 +27,10 @@ namespace _10._ForceBook
 
                     user = argsInfo[1];
                     forceSide = argsInfo[0];
+                    if (sideUsersPairs.Values.Any(s=>s.Contains(user)))
+                    {
+                        continue;
+                    }
 
 
                     if (!sideUsersPairs.ContainsKey(forceSide))

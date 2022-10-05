@@ -63,17 +63,22 @@ namespace _10._Radioactive_Mutant_Vampire_Bunnies
 
                 Stack<int[]> lastPosition = new Stack<int[]>();
 
-                int[] lastPos   = new int[2] { currPositionRow, currPositionCol };
+                int[] lastPos = new int[2] { currPositionRow, currPositionCol };
                 lastPosition.Push(lastPos);
-               
+
 
                 int[] newPosition = MoveMethod(currMove, currPositionRow, currPositionCol, mtrx);
 
                 currPositionRow = newPosition[0];
+
                 currPositionCol = newPosition[1];
+
+
+
                 if (IsCellValid(currPositionRow, currPositionCol, mtrxSize[0], mtrxSize[1]))
                 {
-                mtrx[currPositionRow, currPositionCol] = 'P';
+                    if (mtrx[currPositionRow, currPositionCol] != 'B')
+                        mtrx[currPositionRow, currPositionCol] = 'P';
                 }
 
                 int[] lastMove = lastPosition.Peek();
@@ -88,9 +93,9 @@ namespace _10._Radioactive_Mutant_Vampire_Bunnies
                 {
                     Print(mtrx);
 
-                     lastMove = lastPosition.Peek();
-                     lastRow=lastMove[0];
-                    lastCol=lastMove[1];
+                    lastMove = lastPosition.Peek();
+                    lastRow = lastMove[0];
+                    lastCol = lastMove[1];
 
                     Console.WriteLine($"won: {lastRow} {lastCol}");
                     break;
