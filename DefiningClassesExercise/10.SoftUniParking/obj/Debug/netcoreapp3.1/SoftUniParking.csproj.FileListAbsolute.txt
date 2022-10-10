@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.genruntimeconfig.cache

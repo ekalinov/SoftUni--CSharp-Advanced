@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.exe
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.deps.json
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.dll
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.pdb
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.dll
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.pdb
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.genruntimeconfig.cache

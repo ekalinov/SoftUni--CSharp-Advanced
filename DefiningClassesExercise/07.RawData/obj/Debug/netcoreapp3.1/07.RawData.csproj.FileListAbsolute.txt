@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.exe
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.deps.json
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.dll
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.pdb
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.dll
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.pdb
+D:\Emo\SU_repos\CSharp Advanced\DefiningClassesExercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.genruntimeconfig.cache
