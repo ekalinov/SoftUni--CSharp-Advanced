@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache
