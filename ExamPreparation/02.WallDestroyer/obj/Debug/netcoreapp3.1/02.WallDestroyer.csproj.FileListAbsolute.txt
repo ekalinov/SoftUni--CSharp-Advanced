@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\bin\Debug\netcoreapp3.1\02.WallDestroyer.exe
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\bin\Debug\netcoreapp3.1\02.WallDestroyer.deps.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\bin\Debug\netcoreapp3.1\02.WallDestroyer.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\bin\Debug\netcoreapp3.1\02.WallDestroyer.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\bin\Debug\netcoreapp3.1\02.WallDestroyer.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\bin\Debug\netcoreapp3.1\02.WallDestroyer.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.WallDestroyer\obj\Debug\netcoreapp3.1\02.WallDestroyer.genruntimeconfig.cache

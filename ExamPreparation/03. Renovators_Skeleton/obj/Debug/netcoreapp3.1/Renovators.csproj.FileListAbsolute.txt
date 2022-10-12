@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.exe
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.deps.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.genruntimeconfig.cache

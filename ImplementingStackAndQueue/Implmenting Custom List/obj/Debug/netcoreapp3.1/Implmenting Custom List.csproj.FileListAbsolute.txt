@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\bin\Debug\netcoreapp3.1\Implmenting Custom List.exe
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\bin\Debug\netcoreapp3.1\Implmenting Custom List.deps.json
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\bin\Debug\netcoreapp3.1\Implmenting Custom List.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\bin\Debug\netcoreapp3.1\Implmenting Custom List.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\bin\Debug\netcoreapp3.1\Implmenting Custom List.dll
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\bin\Debug\netcoreapp3.1\Implmenting Custom List.pdb
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\obj\Debug\netcoreapp3.1\Implmenting Custom List.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\obj\Debug\netcoreapp3.1\Implmenting Custom List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\obj\Debug\netcoreapp3.1\Implmenting Custom List.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\obj\Debug\netcoreapp3.1\Implmenting Custom List.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\obj\Debug\netcoreapp3.1\Implmenting Custom List.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\obj\Debug\netcoreapp3.1\Implmenting Custom List.dll
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\obj\Debug\netcoreapp3.1\Implmenting Custom List.pdb
+D:\Emo\SU_repos\CSharp Advanced\ImplementingStackAndQueue\Implmenting Custom List\obj\Debug\netcoreapp3.1\Implmenting Custom List.genruntimeconfig.cache
