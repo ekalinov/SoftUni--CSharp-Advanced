@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.WallDestroyer\\02.WallDestroyer.csproj",
-      "projectName": "02.WallDestroyer",
-      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.WallDestroyer\\02.WallDestroyer.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.WallDestroyer\\022.WallDestroyer.csproj",
+      "projectName": "022.WallDestroyer",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.WallDestroyer\\022.WallDestroyer.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
       "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.WallDestroyer\\obj\\",
       "projectStyle": "PackageReference",

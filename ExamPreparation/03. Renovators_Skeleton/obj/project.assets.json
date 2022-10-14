@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\03. Renovators_Skeleton\\Renovators.csproj",
-      "projectName": "Renovators",
-      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\03. Renovators_Skeleton\\Renovators.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\03. Renovators_Skeleton\\03.Renovators.csproj",
+      "projectName": "03.Renovators",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\03. Renovators_Skeleton\\03.Renovators.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
       "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\03. Renovators_Skeleton\\obj\\",
       "projectStyle": "PackageReference",

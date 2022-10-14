@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\03. Street Racing_Skeleton\\StreetRacing\\StreetRacing.csproj",
-      "projectName": "StreetRacing",
-      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\03. Street Racing_Skeleton\\StreetRacing\\StreetRacing.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\03. Street Racing_Skeleton\\StreetRacing\\033.StreetRacing.csproj",
+      "projectName": "033.StreetRacing",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\03. Street Racing_Skeleton\\StreetRacing\\033.StreetRacing.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
       "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\03. Street Racing_Skeleton\\StreetRacing\\obj\\",
       "projectStyle": "PackageReference",
