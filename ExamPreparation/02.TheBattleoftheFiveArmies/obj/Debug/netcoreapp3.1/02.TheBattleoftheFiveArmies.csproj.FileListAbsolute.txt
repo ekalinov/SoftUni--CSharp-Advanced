@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.exe
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.deps.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02.TheBattleoftheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleoftheFiveArmies.genruntimeconfig.cache

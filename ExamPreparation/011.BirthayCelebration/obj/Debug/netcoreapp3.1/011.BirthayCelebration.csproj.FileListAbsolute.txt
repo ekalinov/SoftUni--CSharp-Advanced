@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\bin\Debug\netcoreapp3.1\011.BirthayCelebration.exe
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\bin\Debug\netcoreapp3.1\011.BirthayCelebration.deps.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\bin\Debug\netcoreapp3.1\011.BirthayCelebration.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\bin\Debug\netcoreapp3.1\011.BirthayCelebration.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\bin\Debug\netcoreapp3.1\011.BirthayCelebration.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\bin\Debug\netcoreapp3.1\011.BirthayCelebration.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\obj\Debug\netcoreapp3.1\011.BirthayCelebration.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\obj\Debug\netcoreapp3.1\011.BirthayCelebration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\obj\Debug\netcoreapp3.1\011.BirthayCelebration.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\obj\Debug\netcoreapp3.1\011.BirthayCelebration.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\obj\Debug\netcoreapp3.1\011.BirthayCelebration.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\obj\Debug\netcoreapp3.1\011.BirthayCelebration.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\obj\Debug\netcoreapp3.1\011.BirthayCelebration.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011.BirthayCelebration\obj\Debug\netcoreapp3.1\011.BirthayCelebration.genruntimeconfig.cache
