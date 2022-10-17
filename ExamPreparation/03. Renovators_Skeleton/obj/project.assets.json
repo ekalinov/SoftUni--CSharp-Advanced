@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "02222.Help-A-Mole/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/02222.Help-A-Mole.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/02222.Help-A-Mole.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "02222.Help-A-Mole/1.0.0": {
+      "type": "project",
+      "path": "../02222.Help-A-Mole/02222.Help-A-Mole.csproj",
+      "msbuildProject": "../02222.Help-A-Mole/02222.Help-A-Mole.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "02222.Help-A-Mole >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\OMEN\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02222.Help-A-Mole\\02222.Help-A-Mole.csproj": {
+              "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02222.Help-A-Mole\\02222.Help-A-Mole.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

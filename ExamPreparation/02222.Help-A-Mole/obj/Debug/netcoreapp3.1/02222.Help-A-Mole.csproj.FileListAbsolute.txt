@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\bin\Debug\netcoreapp3.1\02222.Help-A-Mole.exe
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\bin\Debug\netcoreapp3.1\02222.Help-A-Mole.deps.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\bin\Debug\netcoreapp3.1\02222.Help-A-Mole.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\bin\Debug\netcoreapp3.1\02222.Help-A-Mole.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\bin\Debug\netcoreapp3.1\02222.Help-A-Mole.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\bin\Debug\netcoreapp3.1\02222.Help-A-Mole.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\obj\Debug\netcoreapp3.1\02222.Help-A-Mole.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\obj\Debug\netcoreapp3.1\02222.Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\obj\Debug\netcoreapp3.1\02222.Help-A-Mole.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\obj\Debug\netcoreapp3.1\02222.Help-A-Mole.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\obj\Debug\netcoreapp3.1\02222.Help-A-Mole.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\obj\Debug\netcoreapp3.1\02222.Help-A-Mole.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\obj\Debug\netcoreapp3.1\02222.Help-A-Mole.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\02222.Help-A-Mole\obj\Debug\netcoreapp3.1\02222.Help-A-Mole.genruntimeconfig.cache

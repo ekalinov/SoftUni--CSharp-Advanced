@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\bin\Debug\netcoreapp3.1\GenericScale.exe
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\bin\Debug\netcoreapp3.1\GenericScale.deps.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\bin\Debug\netcoreapp3.1\GenericScale.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\bin\Debug\netcoreapp3.1\GenericScale.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\obj\Debug\netcoreapp3.1\GenericScale.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\obj\Debug\netcoreapp3.1\GenericScale.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\obj\Debug\netcoreapp3.1\GenericScale.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\obj\Debug\netcoreapp3.1\GenericScale.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\obj\Debug\netcoreapp3.1\GenericScale.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\Generic Scale\obj\Debug\netcoreapp3.1\GenericScale.genruntimeconfig.cache

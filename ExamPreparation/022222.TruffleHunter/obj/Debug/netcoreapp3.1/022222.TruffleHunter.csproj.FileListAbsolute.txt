@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\bin\Debug\netcoreapp3.1\022222.TruffleHunter.exe
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\bin\Debug\netcoreapp3.1\022222.TruffleHunter.deps.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\bin\Debug\netcoreapp3.1\022222.TruffleHunter.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\bin\Debug\netcoreapp3.1\022222.TruffleHunter.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\bin\Debug\netcoreapp3.1\022222.TruffleHunter.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\bin\Debug\netcoreapp3.1\022222.TruffleHunter.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\obj\Debug\netcoreapp3.1\022222.TruffleHunter.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\obj\Debug\netcoreapp3.1\022222.TruffleHunter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\obj\Debug\netcoreapp3.1\022222.TruffleHunter.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\obj\Debug\netcoreapp3.1\022222.TruffleHunter.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\obj\Debug\netcoreapp3.1\022222.TruffleHunter.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\obj\Debug\netcoreapp3.1\022222.TruffleHunter.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\obj\Debug\netcoreapp3.1\022222.TruffleHunter.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\022222.TruffleHunter\obj\Debug\netcoreapp3.1\022222.TruffleHunter.genruntimeconfig.cache

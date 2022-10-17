@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.exe
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.deps.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsLAB\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.genruntimeconfig.cache

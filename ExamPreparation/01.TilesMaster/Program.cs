@@ -78,25 +78,19 @@ namespace _01.TilesMaster
             }
 
 
-            if (whiteTiles.Any())
-            {
-                Console.WriteLine($"White tiles left: {string.Join(", ",whiteTiles)}");
-            }
-            else
-            {
-                Console.WriteLine($"White tiles left: none");
-            }
-            if (greyTiles.Any())
-            {
-                Console.WriteLine($"Grey tiles left: {string.Join(", ", greyTiles)}");
-            }
-            else
-            {
-                Console.WriteLine($"Grey tiles left: none");
-            }
+
+            string whitesLeft = whiteTiles.Count == 0 ? "none" : string.Join(", ", whiteTiles);
+            string graysLeft = greyTiles.Count == 0 ? "none" : string.Join(", ", greyTiles);
 
 
-            foreach (var kvp in locations.OrderByDescending(v=>v.Value).ThenBy(k=>k.Key))
+
+            Console.WriteLine($"White tiles left: {whitesLeft}");
+
+            Console.WriteLine($"Grey tiles left: {graysLeft}");
+
+
+
+            foreach (var kvp in locations.OrderByDescending(v => v.Value).ThenBy(k => k.Key))
             {
                 Console.WriteLine($"{kvp.Key}: {kvp.Value}");
             }

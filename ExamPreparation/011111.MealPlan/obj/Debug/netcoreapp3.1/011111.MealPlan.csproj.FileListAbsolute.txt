@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\bin\Debug\netcoreapp3.1\011111.MealPlan.exe
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\bin\Debug\netcoreapp3.1\011111.MealPlan.deps.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\bin\Debug\netcoreapp3.1\011111.MealPlan.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\bin\Debug\netcoreapp3.1\011111.MealPlan.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\bin\Debug\netcoreapp3.1\011111.MealPlan.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\bin\Debug\netcoreapp3.1\011111.MealPlan.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\obj\Debug\netcoreapp3.1\011111.MealPlan.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\obj\Debug\netcoreapp3.1\011111.MealPlan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\obj\Debug\netcoreapp3.1\011111.MealPlan.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\obj\Debug\netcoreapp3.1\011111.MealPlan.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\obj\Debug\netcoreapp3.1\011111.MealPlan.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\obj\Debug\netcoreapp3.1\011111.MealPlan.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\obj\Debug\netcoreapp3.1\011111.MealPlan.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\011111.MealPlan\obj\Debug\netcoreapp3.1\011111.MealPlan.genruntimeconfig.cache
