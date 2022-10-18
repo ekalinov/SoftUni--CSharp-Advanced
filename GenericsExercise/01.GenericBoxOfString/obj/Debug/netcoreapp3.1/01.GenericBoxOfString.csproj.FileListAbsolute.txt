@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.exe
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.deps.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\bin\Debug\netcoreapp3.1\01.GenericBoxOfString.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\01.GenericBoxOfString\obj\Debug\netcoreapp3.1\01.GenericBoxOfString.genruntimeconfig.cache

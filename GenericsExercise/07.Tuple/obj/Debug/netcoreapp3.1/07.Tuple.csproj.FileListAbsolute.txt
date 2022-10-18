@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.exe
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.deps.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.genruntimeconfig.cache

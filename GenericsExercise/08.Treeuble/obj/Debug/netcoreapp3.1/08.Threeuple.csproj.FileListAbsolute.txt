@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\bin\Debug\netcoreapp3.1\08.Threeuple.exe
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\bin\Debug\netcoreapp3.1\08.Threeuple.deps.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\bin\Debug\netcoreapp3.1\08.Threeuple.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\bin\Debug\netcoreapp3.1\08.Threeuple.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\bin\Debug\netcoreapp3.1\08.Threeuple.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\bin\Debug\netcoreapp3.1\08.Threeuple.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\obj\Debug\netcoreapp3.1\08.Threeuple.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\obj\Debug\netcoreapp3.1\08.Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\obj\Debug\netcoreapp3.1\08.Threeuple.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\obj\Debug\netcoreapp3.1\08.Threeuple.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\obj\Debug\netcoreapp3.1\08.Threeuple.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\obj\Debug\netcoreapp3.1\08.Threeuple.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\obj\Debug\netcoreapp3.1\08.Threeuple.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\08.Treeuble\obj\Debug\netcoreapp3.1\08.Threeuple.genruntimeconfig.cache

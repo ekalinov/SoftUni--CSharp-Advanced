@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.exe
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.deps.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.genruntimeconfig.cache

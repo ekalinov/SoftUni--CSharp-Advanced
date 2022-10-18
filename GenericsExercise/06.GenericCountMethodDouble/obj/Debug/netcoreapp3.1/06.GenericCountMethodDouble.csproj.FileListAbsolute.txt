@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.exe
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.deps.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.genruntimeconfig.cache

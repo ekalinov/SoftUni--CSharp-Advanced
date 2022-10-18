@@ -2,10 +2,27 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LinkedList
+namespace CustomDoublyLinkedList
 {
-    public class DoublyLinkedList
+    public class DoublyLinkedList<T>
     {
+        public class ListNode
+        {
+
+            public ListNode Previous { get; set; }
+
+            public ListNode Next { get; set; }
+
+            public T Value { get; set; }
+
+
+
+            public ListNode(T value)
+            {
+                this.Value = value;
+            }
+        }
+
         private ListNode head { get; set; }
 
         private ListNode tail { get; set; }
@@ -13,7 +30,7 @@ namespace LinkedList
         public int Count { get; private set; }
 
 
-        public void AddFirst(int element)
+        public void AddFirst(T element)
         {
             if (Count == 0)
             {
@@ -23,7 +40,7 @@ namespace LinkedList
                 return;
             }
 
-            var newHead = new ListNode(element);
+            var newHead = new ListNode( element);
 
             if (Count == 1)
             {
@@ -37,7 +54,7 @@ namespace LinkedList
 
         }
 
-        public void AddLast(int element)
+        public void AddLast(T element)
         {
             if (Count == 0)
             {
@@ -61,7 +78,7 @@ namespace LinkedList
             this.Count++;
         }
 
-        public int RemoveFirst()
+        public T RemoveFirst()
         {
 
             if (Count == 0)
@@ -89,7 +106,7 @@ namespace LinkedList
 
         }
 
-        public int RemoveLast()
+        public T RemoveLast()
         {
 
             if (Count == 0)
@@ -117,7 +134,7 @@ namespace LinkedList
 
         }
 
-        public void ForEach(Action<int> action)
+        public void ForEach(Action<T> action)
         {
             var currNode = this.head;
 
@@ -129,9 +146,9 @@ namespace LinkedList
 
         }
 
-        public int[] ToArray()
+        public T[] ToArray()
         {
-            var array = new int[this.Count];
+            var array = new T[this.Count];
             var element = this.head;
 
             for (int i = 0; i < array.Length; i++)

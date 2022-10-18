@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.exe
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.deps.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.dll
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.pdb
+D:\Emo\SU_repos\CSharp Advanced\GenericsExercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.genruntimeconfig.cache
