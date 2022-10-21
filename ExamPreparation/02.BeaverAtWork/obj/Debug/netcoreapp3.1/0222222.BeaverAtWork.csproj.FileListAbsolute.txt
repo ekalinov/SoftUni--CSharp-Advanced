@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\bin\Debug\netcoreapp3.1\0222222.BeaverAtWork.exe
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\bin\Debug\netcoreapp3.1\0222222.BeaverAtWork.deps.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\bin\Debug\netcoreapp3.1\0222222.BeaverAtWork.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\bin\Debug\netcoreapp3.1\0222222.BeaverAtWork.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\bin\Debug\netcoreapp3.1\0222222.BeaverAtWork.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\bin\Debug\netcoreapp3.1\0222222.BeaverAtWork.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\obj\Debug\netcoreapp3.1\0222222.BeaverAtWork.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\obj\Debug\netcoreapp3.1\0222222.BeaverAtWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\obj\Debug\netcoreapp3.1\0222222.BeaverAtWork.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\obj\Debug\netcoreapp3.1\0222222.BeaverAtWork.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\obj\Debug\netcoreapp3.1\0222222.BeaverAtWork.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\obj\Debug\netcoreapp3.1\0222222.BeaverAtWork.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\obj\Debug\netcoreapp3.1\0222222.BeaverAtWork.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\0222222.BeaverAtWork\obj\Debug\netcoreapp3.1\0222222.BeaverAtWork.genruntimeconfig.cache

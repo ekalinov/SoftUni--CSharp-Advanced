@@ -5,33 +5,43 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.TilesMaster", "01.TilesMaster\01.TilesMaster.csproj", "{1AFD04AC-2FBF-42FE-9A3D-C0B901090F09}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "022.WallDestroyer", "02.WallDestroyer\022.WallDestroyer.csproj", "{B61785BE-C505-448C-8A5C-C024D82ABC0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.WallDestroyer", "02.WallDestroyer\02.WallDestroyer.csproj", "{B61785BE-C505-448C-8A5C-C024D82ABC0E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Renovators", "03. Renovators_Skeleton\03.Renovators.csproj", "{445D70B6-A003-4817-AC7C-3C20A76B1B39}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011.BirthayCelebration", "011.BirthayCelebration\011.BirthayCelebration.csproj", "{FD3E7E00-4AB5-46C0-B2E8-7A92391DB4EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.BirthayCelebration", "011.BirthayCelebration\01.BirthayCelebration.csproj", "{FD3E7E00-4AB5-46C0-B2E8-7A92391DB4EF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.TheBattleoftheFiveArmies", "02.TheBattleoftheFiveArmies\02.TheBattleoftheFiveArmies.csproj", "{20B67D9B-FC6D-4783-AD8B-315186A1741F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "033.StreetRacing", "03. Street Racing_Skeleton\StreetRacing\033.StreetRacing.csproj", "{7C38564B-FD4E-4B25-8772-3A265231DD7D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0111.Masterchef", "0111.Masterchef\0111.Masterchef.csproj", "{D9D5766B-5E13-4C16-AD3D-C04743F78D7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Masterchef", "0111.Masterchef\01.Masterchef.csproj", "{D9D5766B-5E13-4C16-AD3D-C04743F78D7D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0222.Survivor", "0222.Survivor\0222.Survivor.csproj", "{B7C6E36D-2DB5-418A-95BF-DB1447CCA115}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Survivor", "0222.Survivor\02.Survivor.csproj", "{B7C6E36D-2DB5-418A-95BF-DB1447CCA115}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0333.SkiRental", "SkiRental\0333.SkiRental.csproj", "{B27836E1-5182-4805-A450-293D7E6101E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SkiRental", "SkiRental\03.SkiRental.csproj", "{B27836E1-5182-4805-A450-293D7E6101E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01111.BaristaContest", "01111.BaristaContest\01111.BaristaContest.csproj", "{380B5FA4-1117-4DC9-B01A-D7782F41C957}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.BaristaContest", "01111.BaristaContest\01.BaristaContest.csproj", "{380B5FA4-1117-4DC9-B01A-D7782F41C957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02222.Help-A-Mole", "02222.Help-A-Mole\02222.Help-A-Mole.csproj", "{6D90AB50-9223-4927-A9BE-10C1E02694B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Help-A-Mole", "02222.Help-A-Mole\02.Help-A-Mole.csproj", "{6D90AB50-9223-4927-A9BE-10C1E02694B6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basketball", "03. Basketball_Skeleton\Basketball.csproj", "{00A3CE07-9FF2-497F-A7D2-EB723F382EA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011111.MealPlan", "011111.MealPlan\011111.MealPlan.csproj", "{B282390C-9BB2-4CAA-9AE5-399E51FE6978}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.MealPlan", "011111.MealPlan\01.MealPlan.csproj", "{B282390C-9BB2-4CAA-9AE5-399E51FE6978}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022222.TruffleHunter", "022222.TruffleHunter\022222.TruffleHunter.csproj", "{5E87417A-7B55-49F4-94BC-B89E31C78A2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.TruffleHunter", "022222.TruffleHunter\02.TruffleHunter.csproj", "{5E87417A-7B55-49F4-94BC-B89E31C78A2A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoo", "zoo\Zoo\Zoo.csproj", "{DD503A41-D399-4785-AE5D-1B30C4482430}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.BakeryShop", "0111111.BakeryShop\01.BakeryShop.csproj", "{2A94AF0F-66E2-48B5-BF7D-B99051349C90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BeaverAtWork", "0222222.BeaverAtWork\02.BeaverAtWork.csproj", "{3B5D6FA4-7057-4E46-96E6-60B67F971A3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FishingNet", "FishingNet\FishingNet\FishingNet.csproj", "{E087D9FB-75DF-496D-BDBA-10F20BF42CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Armory", "02.Armory\02.Armory.csproj", "{0640C586-D3F3-4114-B557-1E7AC581CC77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drones", "Drones\Drones\Drones.csproj", "{F446E221-C4DA-4EEE-8331-034BA025D6A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +109,26 @@ Global
 		{DD503A41-D399-4785-AE5D-1B30C4482430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD503A41-D399-4785-AE5D-1B30C4482430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD503A41-D399-4785-AE5D-1B30C4482430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A94AF0F-66E2-48B5-BF7D-B99051349C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A94AF0F-66E2-48B5-BF7D-B99051349C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A94AF0F-66E2-48B5-BF7D-B99051349C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A94AF0F-66E2-48B5-BF7D-B99051349C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5D6FA4-7057-4E46-96E6-60B67F971A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5D6FA4-7057-4E46-96E6-60B67F971A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5D6FA4-7057-4E46-96E6-60B67F971A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5D6FA4-7057-4E46-96E6-60B67F971A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E087D9FB-75DF-496D-BDBA-10F20BF42CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E087D9FB-75DF-496D-BDBA-10F20BF42CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E087D9FB-75DF-496D-BDBA-10F20BF42CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E087D9FB-75DF-496D-BDBA-10F20BF42CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0640C586-D3F3-4114-B557-1E7AC581CC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0640C586-D3F3-4114-B557-1E7AC581CC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0640C586-D3F3-4114-B557-1E7AC581CC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0640C586-D3F3-4114-B557-1E7AC581CC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F446E221-C4DA-4EEE-8331-034BA025D6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F446E221-C4DA-4EEE-8331-034BA025D6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F446E221-C4DA-4EEE-8331-034BA025D6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F446E221-C4DA-4EEE-8331-034BA025D6A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

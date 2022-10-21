@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ImplementingLinkedList\\LinkedList\\LinkedList.csproj",
-      "projectName": "LinkedList",
-      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ImplementingLinkedList\\LinkedList\\LinkedList.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ImplementingLinkedList\\LinkedList\\CustomDoublyLinkedList.csproj",
+      "projectName": "CustomDoublyLinkedList",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ImplementingLinkedList\\LinkedList\\CustomDoublyLinkedList.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
       "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ImplementingLinkedList\\LinkedList\\obj\\",
       "projectStyle": "PackageReference",

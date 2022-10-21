@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\02222.Help-A-Mole\02222.Help-A-Mole.csproj" />
+    <ProjectReference Include="..\02222.Help-A-Mole\02.Help-A-Mole.csproj" />
   </ItemGroup>
 
 </Project>

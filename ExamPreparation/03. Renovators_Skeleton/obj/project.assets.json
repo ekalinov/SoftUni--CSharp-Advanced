@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "02222.Help-A-Mole/1.0.0": {
+      "02.Help-A-Mole/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/02222.Help-A-Mole.dll": {}
+          "bin/placeholder/02.Help-A-Mole.dll": {}
         },
         "runtime": {
-          "bin/placeholder/02222.Help-A-Mole.dll": {}
+          "bin/placeholder/02.Help-A-Mole.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "02222.Help-A-Mole/1.0.0": {
+    "02.Help-A-Mole/1.0.0": {
       "type": "project",
-      "path": "../02222.Help-A-Mole/02222.Help-A-Mole.csproj",
-      "msbuildProject": "../02222.Help-A-Mole/02222.Help-A-Mole.csproj"
+      "path": "../02222.Help-A-Mole/02.Help-A-Mole.csproj",
+      "msbuildProject": "../02222.Help-A-Mole/02.Help-A-Mole.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "02222.Help-A-Mole >= 1.0.0"
+      "02.Help-A-Mole >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02222.Help-A-Mole\\02222.Help-A-Mole.csproj": {
-              "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02222.Help-A-Mole\\02222.Help-A-Mole.csproj"
+            "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02222.Help-A-Mole\\02.Help-A-Mole.csproj": {
+              "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02222.Help-A-Mole\\02.Help-A-Mole.csproj"
             }
           }
         }

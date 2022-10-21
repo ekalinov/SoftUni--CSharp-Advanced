@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\SkiRental\\0333.SkiRental.csproj",
-      "projectName": "0333.SkiRental",
-      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\SkiRental\\0333.SkiRental.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\SkiRental\\03.SkiRental.csproj",
+      "projectName": "03.SkiRental",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\SkiRental\\03.SkiRental.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
       "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\SkiRental\\obj\\",
       "projectStyle": "PackageReference",
