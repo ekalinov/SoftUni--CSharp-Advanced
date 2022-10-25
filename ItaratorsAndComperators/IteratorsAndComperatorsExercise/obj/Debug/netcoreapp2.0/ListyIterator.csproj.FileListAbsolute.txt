@@ -1,0 +1,10 @@
+/Users/e_kalinov/Projects/IteratorsAndComperatorsExercise/IteratorsAndComperatorsExercise/bin/Debug/netcoreapp2.0/ListyIterator.deps.json
+/Users/e_kalinov/Projects/IteratorsAndComperatorsExercise/IteratorsAndComperatorsExercise/bin/Debug/netcoreapp2.0/ListyIterator.runtimeconfig.json
+/Users/e_kalinov/Projects/IteratorsAndComperatorsExercise/IteratorsAndComperatorsExercise/bin/Debug/netcoreapp2.0/ListyIterator.runtimeconfig.dev.json
+/Users/e_kalinov/Projects/IteratorsAndComperatorsExercise/IteratorsAndComperatorsExercise/bin/Debug/netcoreapp2.0/ListyIterator.dll
+/Users/e_kalinov/Projects/IteratorsAndComperatorsExercise/IteratorsAndComperatorsExercise/bin/Debug/netcoreapp2.0/ListyIterator.pdb
+/Users/e_kalinov/Projects/IteratorsAndComperatorsExercise/IteratorsAndComperatorsExercise/obj/Debug/netcoreapp2.0/ListyIterator.csproj.CoreCompileInputs.cache
+/Users/e_kalinov/Projects/IteratorsAndComperatorsExercise/IteratorsAndComperatorsExercise/obj/Debug/netcoreapp2.0/ListyIterator.AssemblyInfoInputs.cache
+/Users/e_kalinov/Projects/IteratorsAndComperatorsExercise/IteratorsAndComperatorsExercise/obj/Debug/netcoreapp2.0/ListyIterator.AssemblyInfo.cs
+/Users/e_kalinov/Projects/IteratorsAndComperatorsExercise/IteratorsAndComperatorsExercise/obj/Debug/netcoreapp2.0/ListyIterator.dll
+/Users/e_kalinov/Projects/IteratorsAndComperatorsExercise/IteratorsAndComperatorsExercise/obj/Debug/netcoreapp2.0/ListyIterator.pdb
