@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0111.Masterchef\\01.Masterchef.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.Masterchef\\01.Masterchef.csproj",
       "projectName": "01.Masterchef",
-      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0111.Masterchef\\01.Masterchef.csproj",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.Masterchef\\01.Masterchef.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0111.Masterchef\\obj\\",
+      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.Masterchef\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

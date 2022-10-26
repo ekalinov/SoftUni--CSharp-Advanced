@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02222.Help-A-Mole\\02.Help-A-Mole.csproj": {}
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.Help-A-Mole\\02.Help-A-Mole.csproj": {}
   },
   "projects": {
-    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02222.Help-A-Mole\\02.Help-A-Mole.csproj": {
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.Help-A-Mole\\02.Help-A-Mole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02222.Help-A-Mole\\02.Help-A-Mole.csproj",
+        "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.Help-A-Mole\\02.Help-A-Mole.csproj",
         "projectName": "02.Help-A-Mole",
-        "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02222.Help-A-Mole\\02.Help-A-Mole.csproj",
+        "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.Help-A-Mole\\02.Help-A-Mole.csproj",
         "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02222.Help-A-Mole\\obj\\",
+        "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.Help-A-Mole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

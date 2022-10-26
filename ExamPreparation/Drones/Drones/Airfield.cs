@@ -65,7 +65,7 @@ namespace Drones
                 return "Airfield is full.";
             }
             if (string.IsNullOrEmpty(drone.Name) 
-                || string.IsNullOrEmpty(drone.Brand)
+                || string.IsNullOrEmpty(drone.Brand )
                 || drone.Range < 5 
                 || drone.Range >15)
             {

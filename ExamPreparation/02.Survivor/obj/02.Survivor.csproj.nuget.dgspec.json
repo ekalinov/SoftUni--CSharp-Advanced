@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0222.Survivor\\02.Survivor.csproj": {}
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj": {}
   },
   "projects": {
-    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0222.Survivor\\02.Survivor.csproj": {
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0222.Survivor\\02.Survivor.csproj",
+        "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj",
         "projectName": "02.Survivor",
-        "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0222.Survivor\\02.Survivor.csproj",
+        "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj",
         "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0222.Survivor\\obj\\",
+        "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.Survivor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

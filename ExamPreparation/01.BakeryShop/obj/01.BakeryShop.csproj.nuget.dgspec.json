@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0111111.BakeryShop\\01.BakeryShop.csproj": {}
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.BakeryShop\\01.BakeryShop.csproj": {}
   },
   "projects": {
-    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0111111.BakeryShop\\01.BakeryShop.csproj": {
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.BakeryShop\\01.BakeryShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0111111.BakeryShop\\01.BakeryShop.csproj",
+        "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.BakeryShop\\01.BakeryShop.csproj",
         "projectName": "01.BakeryShop",
-        "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0111111.BakeryShop\\01.BakeryShop.csproj",
+        "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.BakeryShop\\01.BakeryShop.csproj",
         "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0111111.BakeryShop\\obj\\",
+        "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.BakeryShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

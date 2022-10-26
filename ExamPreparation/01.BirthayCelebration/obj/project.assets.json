@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\011.BirthayCelebration\\01.BirthayCelebration.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.BirthayCelebration\\01.BirthayCelebration.csproj",
       "projectName": "01.BirthayCelebration",
-      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\011.BirthayCelebration\\01.BirthayCelebration.csproj",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.BirthayCelebration\\01.BirthayCelebration.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\011.BirthayCelebration\\obj\\",
+      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.BirthayCelebration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

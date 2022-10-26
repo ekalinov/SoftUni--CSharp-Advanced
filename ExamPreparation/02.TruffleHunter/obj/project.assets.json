@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\022222.TruffleHunter\\02.TruffleHunter.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.TruffleHunter\\02.TruffleHunter.csproj",
       "projectName": "02.TruffleHunter",
-      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\022222.TruffleHunter\\02.TruffleHunter.csproj",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.TruffleHunter\\02.TruffleHunter.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\022222.TruffleHunter\\obj\\",
+      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.TruffleHunter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

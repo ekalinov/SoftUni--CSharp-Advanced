@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Emo\SU_repos\CSharp Advanced\ImplementingLinkedList\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

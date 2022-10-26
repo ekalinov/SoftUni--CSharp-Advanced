@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\011111.MealPlan\\01.MealPlan.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.MealPlan\\01.MealPlan.csproj",
       "projectName": "01.MealPlan",
-      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\011111.MealPlan\\01.MealPlan.csproj",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.MealPlan\\01.MealPlan.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\011111.MealPlan\\obj\\",
+      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.MealPlan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

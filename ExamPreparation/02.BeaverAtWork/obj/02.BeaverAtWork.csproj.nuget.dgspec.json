@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0222222.BeaverAtWork\\02.BeaverAtWork.csproj": {}
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.BeaverAtWork\\02.BeaverAtWork.csproj": {}
   },
   "projects": {
-    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0222222.BeaverAtWork\\02.BeaverAtWork.csproj": {
+    "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.BeaverAtWork\\02.BeaverAtWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0222222.BeaverAtWork\\02.BeaverAtWork.csproj",
+        "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.BeaverAtWork\\02.BeaverAtWork.csproj",
         "projectName": "02.BeaverAtWork",
-        "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0222222.BeaverAtWork\\02.BeaverAtWork.csproj",
+        "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.BeaverAtWork\\02.BeaverAtWork.csproj",
         "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\0222222.BeaverAtWork\\obj\\",
+        "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\02.BeaverAtWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

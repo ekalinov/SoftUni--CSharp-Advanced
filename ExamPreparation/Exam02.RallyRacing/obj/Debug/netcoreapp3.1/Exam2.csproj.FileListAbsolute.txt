@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\bin\Debug\netcoreapp3.1\Exam2.exe
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\bin\Debug\netcoreapp3.1\Exam2.deps.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\bin\Debug\netcoreapp3.1\Exam2.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\bin\Debug\netcoreapp3.1\Exam2.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\bin\Debug\netcoreapp3.1\Exam2.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\bin\Debug\netcoreapp3.1\Exam2.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\obj\Debug\netcoreapp3.1\Exam2.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\obj\Debug\netcoreapp3.1\Exam2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\obj\Debug\netcoreapp3.1\Exam2.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\obj\Debug\netcoreapp3.1\Exam2.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\obj\Debug\netcoreapp3.1\Exam2.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\obj\Debug\netcoreapp3.1\Exam2.dll
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\obj\Debug\netcoreapp3.1\Exam2.pdb
+D:\Emo\SU_repos\CSharp Advanced\ExamPreparation\Exam2\obj\Debug\netcoreapp3.1\Exam2.genruntimeconfig.cache

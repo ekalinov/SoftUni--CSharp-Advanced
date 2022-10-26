@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01111.BaristaContest\\01.BaristaContest.csproj",
+      "projectUniqueName": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.BaristaContest\\01.BaristaContest.csproj",
       "projectName": "01.BaristaContest",
-      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01111.BaristaContest\\01.BaristaContest.csproj",
+      "projectPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.BaristaContest\\01.BaristaContest.csproj",
       "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01111.BaristaContest\\obj\\",
+      "outputPath": "D:\\Emo\\SU_repos\\CSharp Advanced\\ExamPreparation\\01.BaristaContest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
