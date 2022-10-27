@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\bin\Debug\netcoreapp3.1\07.CustomComperator.exe
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\bin\Debug\netcoreapp3.1\07.CustomComperator.deps.json
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\bin\Debug\netcoreapp3.1\07.CustomComperator.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\bin\Debug\netcoreapp3.1\07.CustomComperator.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\bin\Debug\netcoreapp3.1\07.CustomComperator.dll
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\bin\Debug\netcoreapp3.1\07.CustomComperator.pdb
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\obj\Debug\netcoreapp3.1\07.CustomComperator.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\obj\Debug\netcoreapp3.1\07.CustomComperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\obj\Debug\netcoreapp3.1\07.CustomComperator.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\obj\Debug\netcoreapp3.1\07.CustomComperator.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\obj\Debug\netcoreapp3.1\07.CustomComperator.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\obj\Debug\netcoreapp3.1\07.CustomComperator.dll
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\obj\Debug\netcoreapp3.1\07.CustomComperator.pdb
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\07.CustomComperator\obj\Debug\netcoreapp3.1\07.CustomComperator.genruntimeconfig.cache

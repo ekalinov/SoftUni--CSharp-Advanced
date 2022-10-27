@@ -47,7 +47,7 @@ namespace ListyIterator
                 throw new InvalidOperationException("Invalid Operation!");
             }
             Console.WriteLine(items[index]);
-        }
+         }
 
         public IEnumerator<T> GetEnumerator()
         {

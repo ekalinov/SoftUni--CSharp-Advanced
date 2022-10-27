@@ -1,0 +1,14 @@
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.exe
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.deps.json
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.runtimeconfig.json
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.runtimeconfig.dev.json
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.dll
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.pdb
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.csproj.AssemblyReference.cache
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.AssemblyInfoInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.AssemblyInfo.cs
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.csproj.CoreCompileInputs.cache
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.dll
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.pdb
+D:\Emo\SU_repos\CSharp Advanced\IteratorsAndComperatorsExercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.genruntimeconfig.cache
